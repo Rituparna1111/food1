@@ -1,0 +1,57 @@
+@media (max-width:793px){
+  .banner{
+    width: 111%;
+    min-height: 100vh;
+  }
+
+  .banner .content h2{
+    font-size: 2em;
+    color: white;
+    font-weight: bold;
+  }
+  .banner .content p{
+    font-size: 1em;
+    color: white;
+    padding-left:  111px;
+    padding-right:  121px;
+  }
+
+
+  .Aboutsection {
+
+    margin: 36px -63px 40px 65px;
+    padding-top: 40px;
+
+  }
+
+    .ourmenu{
+        padding-right: 127px;
+        padding-left: 120px;
+    }
+    .ourmenu .row{
+      width: 100%;
+      align-items: center;
+      margin-left: 60px;
+  }
+
+    .col{
+      width: 100%;
+    }
+
+    .testimonials{
+      width: 111%;
+    }
+
+    
+      .contact{
+        width: 111%;
+      }
+      .contactForm{
+      	padding: 75px 33px;
+      	margin-top: 50px;
+      	margin-left: 450px;
+
+      }
+      .copyrightText{
+        width: 111%;
+      }
